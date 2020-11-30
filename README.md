@@ -20,3 +20,6 @@ You need the following steps to reuse it:
 Please do not use debug mode during your development, because this model will kill your service.
 When you complete the development of your tool and install it on the mobile phone, please manually open the system setting to help your tool get accessibility permission!
 Then, as your APK that needs to be tested is launched(you can write the code to launch from your automated testing tool or Frida,...), the automated testing tool can detect the component node, then perform click or other actions.
+
+This tool is demo only and I may update in the further if I'm free.
+Feel free to use and expand it but please reference me.
