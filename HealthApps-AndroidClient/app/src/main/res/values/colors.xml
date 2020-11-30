@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gray_line_color">#cacaca</color>
+
+    <drawable name="transparent_background">#00000000</drawable>
+    <drawable name="back_pressed_background">#aaa</drawable>
+    <drawable name="press_detect">#00574B</drawable>
+    <drawable name="normal_detect">#ff008577</drawable>
+</resources>
